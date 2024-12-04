@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Sushant Tuladhar</h1></center>
+<h1 align="left"> Hi there 👋, I'm Sushant Tuladhar</h1>
 
-I work as a Senior Full Stack Software Engineer in Test (SDET)
+<h3 align="left">I work as a Senior Full Stack Software Engineer in Test (SDET) </h3>
 
 ![](https://komarev.com/ghpvc/?username=sushant-tuladhar)
 
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tuladharsushant01@gmail.com
 - ⚡ Know about my experiences: <a href="https://www.linkedin.com/in/sushant-tuladhar-081185143/">https://www.linkedin.com/in/sushant-tuladhar-081185143/</a>
 
-<h2>Languages and Tools: </h2>
+<h3 align="left">Languages and Tools: </h3>
 <ol>
   <li>Cypress</li>
   <li>JMeter</li>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <li>Typescript</li>
   <li>Postman</li>
   <li>Selenium</li>
-  <li>Patrol</li>
+  <li>Patrol Flutter Framework</li>
   <li>PostgreSQL</li>
   <li>Git</li>
 </ol>
