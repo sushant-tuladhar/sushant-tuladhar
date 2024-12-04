@@ -23,8 +23,12 @@ Here are some ideas to get you started:
   <li>Typescript</li>
   <li>Postman</li>
   <li>Selenium</li>
-  <li>Patrol Flutter Framework</li>
+  <li>Patrol E2E Flutter Framework</li>
   <li>PostgreSQL</li>
   <li>Git</li>
+  <li>DeviceFarm</li>
+  <li>Browserstack</li>
+  <li>NUnit</li>
+  <li>SQL server</li>
 </ol>
 
