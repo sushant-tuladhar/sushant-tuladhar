@@ -30,5 +30,6 @@ Here are some ideas to get you started:
   <li>Browserstack</li>
   <li>NUnit</li>
   <li>SQL server</li>
+  <li>Python</li>
 </ol>
 
