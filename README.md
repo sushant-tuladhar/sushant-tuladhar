@@ -31,7 +31,8 @@ Here are some ideas to get you started:
   <li>NUnit</li>
   <li>SQL server</li>
   <li>Python</li>
-  <li>Node</li>
+  <li>Node (Express)</li>
+  <li>React With ViteJs</li>
   <li>MongoDB</li>
 </ol>
 
